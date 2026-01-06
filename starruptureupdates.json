@@ -6,7 +6,7 @@
         "UpdateSourceData": "3809400",
         "UpdateSourceArgs": "1631270",
         "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
+        "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true,
         "OneShot": false
     },
