@@ -9,7 +9,7 @@
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
         "OneShot": false
-    }
+    },
     {
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
