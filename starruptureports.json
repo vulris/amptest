@@ -5,12 +5,5 @@
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
         "Ref": "MainGamePort"
-    },
-    {
-        "Protocol": "Both",
-        "Port": "27015",
-        "Name": "Steam Query Port",
-        "Description": "Port used for main game traffic",
-        "Ref": "SteamQueryPort"
     }
 ]
