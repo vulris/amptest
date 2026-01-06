@@ -1,7 +1,7 @@
 [
     {
         "UpdateStageName": "",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "3809400",
         "UpdateSourceArgs": "1631270",
